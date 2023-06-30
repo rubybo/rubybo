@@ -1,4 +1,4 @@
-<h1>ML developer</h1>
+<h1>Backend developer</h1>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
@@ -12,4 +12,4 @@
 </div>
 
 
-//About me i'm ML developer
+//About me i'm Backend developer
